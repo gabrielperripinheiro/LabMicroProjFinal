@@ -1,1 +1,31 @@
 # LabMicroProjFinal
+
+Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
+
+## Proposta
+
+- Criar um mecanismo responsável por acionar um simulador de ventilador e um simulador de motor de persiana
+
+## Plataforma
+
+- Arduino
+
+## Objetivos
+
+- Assimilar conceitos aprendidos durante a disciplina
+- Desenvolver um projeto original
+- Conhecer melhor o funcionamento dos sensores e atuadores implementados no projeto
+
+## To do
+
+- [ ] Criar os ambientes que serão usados para documentar todas as etapas do projeto;
+- [ ] Projetar o circuito elétrico no qual será implementado o projeto;
+- [ ] Testar o circuito;
+- [ ] Desenvolver o código que será usado para ler as entradas dos sensores, registrar e enviar para os motores;
+- [ ] Atualizar e finalizar os repositórios e documentações.
+
+## Desenvolvedores
+
+- Bruno Ferreira da Silva - RA 379301
+- Gabriel Perri Pinheiro - RA 400815
+- Rafael Kenji Kawaoku da Igreja - RA 386219
