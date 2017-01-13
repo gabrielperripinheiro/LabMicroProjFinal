@@ -4,7 +4,7 @@ Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
 
 ## Proposta
 
-- Criar um mecanismo responsável por acionar um simulador de ventilador e um simulador de motor de persiana
+- A partir da leitura dos sensores da Luminosidade (Groove Light Sensor) e de Temperatura (Groove Temperature Sensor) desenvolver um mecanismo responsável por acionar um simulador de ventilador a partir da variação de temperatura  e um de motor que será responsável por abrir e fechar uma persiana, a partir das variações de luminosidade.
 
 ## Plataforma
 
@@ -13,7 +13,7 @@ Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
 ## Objetivos
 
 - Assimilar conceitos aprendidos durante a disciplina
-- Desenvolver um projeto original
+- Desenvolver um projeto original e funcional
 - Conhecer melhor o funcionamento dos sensores e atuadores implementados no projeto
 
 ## To do
