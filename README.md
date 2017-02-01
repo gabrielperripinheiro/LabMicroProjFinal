@@ -30,3 +30,4 @@ Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
 - Bruno Ferreira da Silva - RA 379301
 - Gabriel Perri Pinheiro - RA 400815
 - Rafael Kenji Kawaoku da Igreja - RA 386219
+- Victor Bruno Sanches Cassano - RA 552429
