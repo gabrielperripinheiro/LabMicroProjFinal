@@ -1,6 +1,8 @@
 int sentido1 = 4;
 int sentido2 = 5;
 int sensorluz = 6;
+int aberto = 0;
+int fechado = 0;
 
 void setup()
 {
@@ -14,7 +16,7 @@ void loop()
     
   
     entradasensorluz = analogRead(sensorluz);
-    if (entradasensorluz > X) //X é o limiar para abertura da persiana
+    if (entradasensorluz > X && aberto=0 ) //X é o limiar para abertura da persiana
     {
       //Ativa em um sentido para abrir
         digitalWrite(sentido1, HIGH);
@@ -23,8 +25,10 @@ void loop()
         //Desliga os dois
         digitalWrite(sentido1, LOW);
         digitalWrite(sentido2, LOW);
+        aberto =1;
+        fechado =0;
     }
- if (entradasensorluz < Y) //Y é o limiar para fechamento da persiana
+ if (entradasensorluz < Y && fechado=0) //Y é o limiar para fechamento da persiana
     {
       //Ativa em um sentido para fechar
         digitalWrite(sentido1, HIGH);
@@ -33,6 +37,8 @@ void loop()
         //Desliga os dois
         digitalWrite(sentido1, LOW);
         digitalWrite(sentido2, LOW);
+        aberto = 0;
+        fechado = 1;
     }      
     
       
