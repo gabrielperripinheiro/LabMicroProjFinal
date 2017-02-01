@@ -1,6 +1,6 @@
 int sentido1 = 4;
 int sentido2 = 5;
-int sensorluz = 6
+int sensorluz = 6;
 
 void setup()
 {
