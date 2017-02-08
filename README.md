@@ -25,6 +25,10 @@ Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
 - [ ] Testar o circuito;
 - [ ] Atualizar e finalizar os repositórios e documentações.
 
+## Esquema Elétrico do Projeto
+
+- http://www.schematics.com/project/projetoeletrico_rafaelkenji_gabrielperri_brunoferreira_victorcassano-48288/
+
 ## Desenvolvedores
 
 - Bruno Ferreira da Silva - RA 379301
