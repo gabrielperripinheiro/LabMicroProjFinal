@@ -11,3 +11,8 @@ Os motores, um será utilizado para atuação nos dois sentidos,
 por isso foi usado uma ponte H desenvolvida em sala durante as aulas, para que o motor possa atuar nos dois sentidos.
 
 O outro motor, será utilizado somente em um sentido, pois irá representar um ventilador.
+
+
+- 08/02/2017
+Foi acrescentado um  Relay do kit Groove (não foi encontrado o componente exato, foi usado um semelhante), para que o motor não seja ligado diretamente na Placa do  Arduino, para evitar queimas. 
+Foi corrigido as ligações das portas.
