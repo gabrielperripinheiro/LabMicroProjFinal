@@ -14,5 +14,5 @@ O outro motor, será utilizado somente em um sentido, pois irá representar um v
 
 
 - 08/02/2017
-Foi acrescentado um  Relay do kit Groove (não foi encontrado o componente exato, foi usado um semelhante), para que o motor não seja ligado diretamente na Placa do  Arduino, para evitar queimas. 
-Foi corrigido as ligações das portas.
+Acrescentado o Relay do Kit Groove, para evitar ligar o arduino diretamente no motor, impedindo queimas.
+Corrigido as entradas e saidas do Arduino.
