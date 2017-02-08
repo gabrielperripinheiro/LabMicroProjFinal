@@ -21,7 +21,7 @@ Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
 - [X] Criar os ambientes que serão usados para documentar todas as etapas do projeto;
 - [X] Testar e entender o funcionamento dos sensores a serem utilizados;
 - [X] Projetar o circuito elétrico no qual será implementado o projeto;
-- [ ] Desenvolver o código que será usado para ler as entradas dos sensores, registrar e enviar para os motores;
+- [X] Desenvolver o código que será usado para ler as entradas dos sensores, registrar e enviar para os motores;
 - [ ] Testar o circuito;
 - [ ] Atualizar e finalizar os repositórios e documentações.
 
