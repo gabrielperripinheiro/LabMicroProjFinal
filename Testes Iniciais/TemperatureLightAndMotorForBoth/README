@@ -1,0 +1,3 @@
+Código de prototipação finalizado, com sensores de luz e temperatura e programação dos dois motores, 
+sem os códigos de acionamento, porém com a lógica já feita. Para finalizar o projeto é necessário juntar
+a programação do arduino com os códigos do motor e o esquemático.
