@@ -23,7 +23,7 @@ Projeto final da disciplina de Laboratório de Microcontroladores da UFSCar
 - [X] Projetar o circuito elétrico no qual será implementado o projeto;
 - [X] Desenvolver o código que será usado para ler as entradas dos sensores, registrar e enviar para os motores;
 - [X] Testar o circuito;
-- [ ] Atualizar e finalizar os repositórios e documentações.
+- [X] Atualizar e finalizar os repositórios e documentações.
 
 ## Esquema Elétrico do Projeto
 
