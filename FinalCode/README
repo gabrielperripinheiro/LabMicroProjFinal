@@ -1,0 +1,2 @@
+Ambos os arquivos possuem o código final em funcionamento, porém o FinalCode.ino apresentou problemas ao carregar o código para a placa
+devido a alguns caracteres utilizados no Println. Resolvido o problema, upamos o código final sob o nome Trab_Final_Micro.ino
